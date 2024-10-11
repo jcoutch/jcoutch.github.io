@@ -24,8 +24,4 @@
 <li>Wrote a <strong><a href="http://www.ogre3d.org/tikiwiki/tiki-index.php?page=TrueSpace+Exporter" target="_blank">plug-in for TrueSpace</a></strong> for exporting models in the Ogre 3D Rendering Engine format</li>
 <li>Initiated pull requests on a few libraries here and there</li>
 </ul>
-<p><br />Outside of web development, I'm also an experienced podcast producer:</p>
-<ul>
-<li><strong><a href="https://www.youtube.com/channel/UCSdPo7f2d1UBA_yR06nz0CA/videos" target="_blank">The CanSurvivor Podcast with Kelsey Smith</a></strong><br />A breast cancer podcast that focuses on stories from the patients perspective.&nbsp; Episode audio&nbsp;can be found on&nbsp;<a href="https://thecansurvivor.podbean.com/" target="_blank">Podbean</a>.</li>
-</ul>
 <p>&nbsp;</p>
